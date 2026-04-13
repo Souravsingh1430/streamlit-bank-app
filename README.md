@@ -6,20 +6,17 @@ The main goal of this project is to understand how a basic banking system works 
 
 ## Project Demo Screenshots
 
-### Home Page
-![Home Page](images/home.png)
-
-### Create Account Page
-![Create Account](images/create_account.png)
+### Home Page and Create Account Page
+![Home Page](images/Screenshot 2026-04-13 100937.png)
 
 ### Deposit Money
-![Deposit](images/deposit.png)
+![Deposit](images/Screenshot 2026-04-13 101336.png)
 
 ### Withdraw Money
-![Withdraw](images/withdraw.png)
+![Withdraw](images/Screenshot 2026-04-13 101358.png)
 
-### Account Details
-![Account Details](images/account_details.png)
+### Delete Account
+![Delete](images/Screenshot 2026-04-13 100951.png)
 
 > You can replace these images with your own screenshots by saving them inside an `images` folder.
 
