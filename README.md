@@ -7,16 +7,16 @@ The main goal of this project is to understand how a basic banking system works 
 ## Project Demo Screenshots
 
 ### Home Page and Create Account Page
-![Home Page](images/Screenshot 2026-04-13 100937.png)
+![Home Page]("images/Screenshot 2026-04-13 100937.png")
 
 ### Deposit Money
-![Deposit](images/Screenshot 2026-04-13 101336.png)
+![Deposit]("images/Screenshot 2026-04-13 101336.png")
 
 ### Withdraw Money
-![Withdraw](images/Screenshot 2026-04-13 101358.png)
+![Withdraw]("images/Screenshot 2026-04-13 101358.png")
 
 ### Delete Account
-![Delete](images/Screenshot 2026-04-13 100951.png)
+![Delete]("images/Screenshot 2026-04-13 100951.png")
 
 > You can replace these images with your own screenshots by saving them inside an `images` folder.
 
@@ -65,45 +65,7 @@ I made this project to practice Python and learn how to build web apps using Str
 - Use a database like SQLite or MySQL  
 - Add multiple user support  
 
----
 
-## How to Run the Project
-
-1. Clone the repository
-
-Here’s a **more detailed but still simple, natural (human-written style)** README for your project. I also added **image placeholders** where you can put your screenshots easily.
-
-You can copy this directly 👇
-
-```markdown
-# streamlit-bank-app
-
-This is a simple banking application built using Streamlit. In this project, users can create their own bank account, deposit money, withdraw money, and check their account details.
-
-The main goal of this project is to understand how a basic banking system works and how we can build interactive web apps using Streamlit. Instead of using a database, I used a JSON file to store the data, which makes it easy to understand for beginners.
-
----
-
-## Project Demo Screenshots
-
-### Home Page
-![Home Page](images/home.png)
-
-### Create Account Page
-![Create Account](images/create_account.png)
-
-### Deposit Money
-![Deposit](images/deposit.png)
-
-### Withdraw Money
-![Withdraw](images/withdraw.png)
-
-### Account Details
-![Account Details](images/account_details.png)
-
-> You can replace these images with your own screenshots by saving them inside an `images` folder.
-
----
 
 ## Features
 
@@ -114,7 +76,6 @@ The main goal of this project is to understand how a basic banking system works 
 - Data stored in JSON file (no database required)  
 - Simple and easy-to-use interface  
 
----
 
 ## Technologies Used
 
@@ -122,7 +83,6 @@ The main goal of this project is to understand how a basic banking system works 
 - Streamlit  
 - JSON (for storing data)  
 
----
 
 ## How the Project Works
 
@@ -132,13 +92,11 @@ The main goal of this project is to understand how a basic banking system works 
 - Streamlit handles the frontend and user interaction  
 - The app reads and writes data in real-time  
 
----
 
 ## Why I Made This Project
 
 I made this project to practice Python and learn how to build web apps using Streamlit. It also helped me understand file handling and how data can be managed without using a database.
 
----
 
 ## Future Improvements
 
@@ -152,34 +110,21 @@ I made this project to practice Python and learn how to build web apps using Str
 ## How to Run the Project
 
 1. Clone the repository  
-```
 
-git clone <your-repo-link>
+`git clone <your-repo-link>`
 
-```
 
 2. Go to the project folder  
-```
 
-cd streamlit-bank-app
+`cd streamlit-bank-app`
 
-```
 
 3. Install dependencies  
-```
 
-pip install streamlit
-
-```
+`pip install streamlit`
 
 4. Run the app  
-```
-
-streamlit run app.py
-
-```
-
----
+`streamlit run app.py`
 
 ## Project Structure
 
@@ -198,7 +143,6 @@ streamlit-bank-app/
 
 ```
 
----
 
 ## Author
 
